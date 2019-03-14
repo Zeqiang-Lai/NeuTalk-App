@@ -1,6 +1,6 @@
 # NeuTalk
 
-
+A instant chat application, developed with gtkmm and c++. 
 
 ## Compile
 
